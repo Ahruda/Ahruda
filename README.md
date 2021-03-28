@@ -15,6 +15,6 @@ PHP - CSS - JavaScript - Java - MySql - Ajax - Bootstrap
 
 
 <h3>📈Tecnologias que estou praticando:</h3>
-Laravel - Node.js
+Laravel - Node.js - Android
 <br><br>
 Dê uma olhada nos meus repositórios se puder 😃
