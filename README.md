@@ -11,10 +11,10 @@ Sou graduando de Engenharia de Computação na cidade de Poços de Caldas - MG.
 Estudo bastante desenvolvimento web e adoro tecnologias.
 
 <h3>✅Tecnologias que tenho experiência:</h3>
-PHP - CSS - JavaScript - Java - MySql - Ajax - Bootstrap
+PHP - CSS - JavaScript - Java - MySql - Ajax - Bootstrap - Android
 
 
 <h3>📈Tecnologias que estou praticando:</h3>
-Laravel - Node.js - Android
+React.js - Node.js
 <br><br>
-Dê uma olhada nos meus repositórios se puder 😃
+Dê uma olhada nos meus repositórios 😃
