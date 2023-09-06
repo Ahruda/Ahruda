@@ -11,5 +11,6 @@ Estudo bastante desenvolvimento web e adoro tecnologias voltadas para alta perfo
 <h3>✅Tecnologias que tenho experiência:</h3>
 Java - Kotlin - Spring Boot - Javascript - Typescript - MySql - Oracle - RabbitMQ - Kafka
 
-
-Atualmente trabalho na Pagbank com Backend Java
+<p>
+  Atualmente trabalho na Pagbank com Backend Java
+</p>
