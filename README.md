@@ -5,16 +5,10 @@ Oi, me chamo Leonardo
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahruda/)](https://www.linkedin.com/in/ahruda/)
 [![Gmail Badge](https://img.shields.io/badge/-leonardo.gearruda@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardo.gearruda@gmail.com)](mailto:leonardo.gearruda@gmail.com)
 
-
-Sou graduando de Engenharia de Computação na cidade de Poços de Caldas - MG.
-
-Estudo bastante desenvolvimento web e adoro tecnologias.
+Sou engenheiro de computação 
+Estudo bastante desenvolvimento web e adoro tecnologias voltadas para alta performance e escalabilidade.
 
 <h3>✅Tecnologias que tenho experiência:</h3>
-PHP - CSS - JavaScript - Java - MySql - Ajax - Bootstrap - Android
+Java - Kotlin - Spring Boot - Javascript - Typescript - MySql - Oracle - RabbitMQ - Kafka
 
-
-<h3>📈Tecnologias que estou praticando:</h3>
-React.js - Node.js
-<br><br>
-Dê uma olhada nos meus repositórios 😃
+Atualmente trabalho na Pagbank com Backend Java
